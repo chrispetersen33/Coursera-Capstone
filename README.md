@@ -1,2 +1,2 @@
 # Coursera-Capstone
-This GitHub is my Coursera CApstone for Battle of the Neighborhoods
+This GitHub is my Coursera Capstone for Battle of the Neighborhoods
